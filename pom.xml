@@ -15,14 +15,14 @@
 	<distributionManagement>
 		<repository>
 				<id>nexus</id>
-				<url>http://51.250.13.64:8081/repository/maven-releases</url>
+				<url>http://51.250.109.90:8081/repository/maven-releases</url>
 		</repository>
 	</distributionManagement>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>4.12</version>
+			<version>0.0.1</version>
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
