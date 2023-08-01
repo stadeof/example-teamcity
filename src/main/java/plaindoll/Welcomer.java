@@ -10,6 +10,9 @@ public class Welcomer{
 	public String sayNeedGold(){
 		return "Not enough gold";
 	}
+	public String sayReplHunter(){
+		return "Ya ne znayu java hunter";
+	}
 	public String saySome(){
 		return "something in the way";
 	}
